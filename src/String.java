@@ -8,4 +8,8 @@ public class String{
         LocalTime lt=LocalTime.now();
         System.out.println("Today Timing is :" +lt);
     }
+
+    public int compareTo(String name) {
+        return 0;
+    }
 }
