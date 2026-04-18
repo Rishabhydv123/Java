@@ -18,5 +18,7 @@ public class LambdaRunnableExample {
                 System.out.println(e);
             }
         }
+
     }
+
 }
