@@ -52,11 +52,11 @@ public class comparators {
         // TODO Auto-generated method stub
         ArrayList<customers> list = new ArrayList<>();
 
-        list.add(new customers(25, "shahzad"));
-        list.add(new customers(18, "Durgesh"));
-        list.add(new customers(35, "Ishan"));
-        list.add(new customers(23, "swapnil"));
-        list.add(new customers(25, "abad"));
+//        list.add(new customers(25, "shahzad"));
+//        list.add(new customers(18, "Durgesh"));
+//        list.add(new customers(35, "Ishan"));
+//        list.add(new customers(23, "swapnil"));
+//        list.add(new customers(25, "abad"));
 
 //        list.add(new customers(25, "acid"));
 
