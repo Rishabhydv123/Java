@@ -22,5 +22,8 @@ public class FileReadExample {
         } catch (IOException e) {
             System.out.println("Error reading file: " + e.getMessage());
         }
+
     }
+
+
 }
