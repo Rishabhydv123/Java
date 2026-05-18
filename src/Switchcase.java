@@ -38,7 +38,8 @@ public class Switchcase {
                 if (num2 != 0) {
                     result = num1 / num2;
                     System.out.println("Result: " + result);
-                } else {
+                } 
+                   else {
                     System.out.println("Error: Division by zero!");
                 }
                 break;
