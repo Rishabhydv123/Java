@@ -31,8 +31,5 @@ public class bufferedReader {
 
         bw.close();
 
-
-
-
     }
 }
