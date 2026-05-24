@@ -15,15 +15,10 @@ public class FileReadExample {
             while ((line = br.readLine()) != null) {
                 System.out.println(line);
             }
-
             br.close();
             fr.close();
-
         } catch (IOException e) {
             System.out.println("Error reading file: " + e.getMessage());
         }
-
     }
-
-
 }
