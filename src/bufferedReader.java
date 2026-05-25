@@ -1,9 +1,7 @@
 
 import java.io.*;
 
-public class bufferedReader {
-
-
+public class bufferedReader 
     //	bufferedReader
     public static void main(String[] args) throws IOException {
 //        try (BufferedReader br = new BufferedReader(
