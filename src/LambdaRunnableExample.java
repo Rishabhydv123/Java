@@ -1,12 +1,9 @@
 public class LambdaRunnableExample {
     public static void main(String[] args) {
-
         Runnable r = LambdaRunnableExample::run;
-
         Thread t1 = new Thread(r);
         t1.start();
     }
-
     private static void run() {
         for (int i = 1; i <= 5; i++) {
             System.out.println("Thread run: " + i);
