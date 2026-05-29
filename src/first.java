@@ -1,5 +1,4 @@
 package yadav;
-
 //class Animal {
 //    void eat() {
 //        System.out.println("Eating...");
@@ -11,8 +10,6 @@ package yadav;
 //        System.out.println("Barking...");
 //    }
 //}
-
-
 
 class Calculator {
     int add(int a, int b) {
